@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "186146646873",
+    "project_id": "latihan-auth-c3171",
+    "storage_bucket": "latihan-auth-c3171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186146646873:android:eba096363530322e2dba48",
+        "android_client_info": {
+          "package_name": "com.example.final_project_alquranapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186146646873-4o5vmhstvpe21da7t2i31673nnhqqf72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1goYgBz3kFvxSo02nX3wHKpKalwKEvEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186146646873-4o5vmhstvpe21da7t2i31673nnhqqf72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186146646873:android:b1ab9b7eb8b3f9892dba48",
+        "android_client_info": {
+          "package_name": "com.example.sanberappflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186146646873-4o5vmhstvpe21da7t2i31673nnhqqf72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1goYgBz3kFvxSo02nX3wHKpKalwKEvEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186146646873-4o5vmhstvpe21da7t2i31673nnhqqf72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
